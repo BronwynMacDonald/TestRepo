@@ -15,23 +15,34 @@ These are more words
 [Link to another page](./linkedpage.html).
 
 
-
 More words
 
-
+and more
 
 and more
 
+<br>
+<br>
 
-
-
-and more
-
-
-
-
-
-# Heading!
-
+## Heading!
 
 and more words
+
+### How about a list
+* This
+* That
+* Something else
+
+### Numbered List
+1. One thing
+2. Two things
+
+***
+### New Header after a break
+
+| Making        | a         | table |
+|:-------------|:------------------|:------|
+| a           | this is column 2 | stuff |
+| b           | this is column 2    | things  |
+| c           | this is column 2       | and such   |
+
