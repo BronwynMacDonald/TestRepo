@@ -2,7 +2,7 @@ title: Main Title Here
 logo: /assets/img/logo.png
 description: Minimal is a theme we are trying.
 show_downloads: true
-theme: minima
+#theme: minima
 classes: wide
 
 # Build settings
@@ -10,7 +10,7 @@ classes: wide
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
