@@ -2,5 +2,5 @@ title: Main Title Here
 logo: /assets/img/logo.png
 description: Minimal is a theme we are trying.
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 classes: wide
