@@ -2,4 +2,7 @@
 
 Here is a linked page!
 
-Adding a blank ![image](./assets/images/image.png)
+Adding an image 
+
+
+![image](./assets/images/image.png)
