@@ -18,21 +18,24 @@ Specifically, annual tracking of Pacific salmon CU statuses will improve the abi
 
 DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon statuses. 
 To support this, DFO has developed a [status assessment toolkit](./WSP Toolkit.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
-This toolkit has been used to assess three groups of Pacific salmon Conservation Units (CUs) through [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
-* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349836.pdf">Fraser Sockeye (2012)</a>, <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40712163.pdf">Fraser Sockeye (2017)</a>
-* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf">Southern BC Chinook</a>
-* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf">Interior Fraser Coho</a>.
+
+- [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
+- [Toolkit for assessing Wild Salmon Policy statuses](./WSP Toolkit.md)
+
+The WSP toolkit has been used to assess three groups of Pacific salmon Conservation Units (CUs) through four separate [WSP Integrated Status Assessments](./Integrated Status Assessments.md): 
+<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349836.pdf">Fraser Sockeye (2012)</a>, <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40712163.pdf">Fraser Sockeye (2017)</a>, 
+<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf">Southern BC Chinook</a>, and <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf">Interior Fraser Coho</a>.
 
 More recently, DFO's State of the Salmon Program developed a streamlined approach to assess biological statuses of Pacific Salmon Conservation Units (CUs) through 
-<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41225260.pdf">Wild Salmon Policy (WSP) rapid status assessments</a>.   
+<a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41225260.pdf">Wild Salmon Policy (WSP) rapid status assessments</a>. The State of the Salmon program is coordinating and supporting 
+local implementation of rapid status assessments across species and areas.
 
-The State of the Salmon program is coordinating and supporting local implementation of rapid status assessments across species and areas.
+- [WSP Integrated Status Assessments](./Integrated Status Assessments.md)
+- [WSP Rapid Status Assessments](./WSP Rapid Status.md)
 
 Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md). The Scanner is an interactive data visualization tool specifically designed for experts to support their work on 
 Pacific salmon. 
 
-- [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
-- [Toolkit for assessing Wild Salmon Policy statuses](./WSP Toolkit.md)
 - [The Pacific Salmon Status Scanner](./The Scanner.md)
 
 <br>
@@ -56,5 +59,5 @@ As environmental conditions continue to change, climate change vulnerability ass
 detailed understanding of the distribution of climate vulnerabilities across Pacific salmon populations in Canada to better inform current and future management decisions, and support efforts to 
 <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">adapt to the changing salmon landscape</a>.   
 
-<a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">More on climate change adaptation for Pacific salmon</a>. 
+* <a href="https://publications.gc.ca/collections/collection_2023/mpo-dfo/Fs144-70-2023-eng.pdf">Climate change adaptation for Pacific salmon</a>. 
  
