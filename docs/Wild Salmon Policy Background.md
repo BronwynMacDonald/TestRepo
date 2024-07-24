@@ -1,6 +1,6 @@
 # Canada's Wild Salmon Policy Strategy 1: Standardized Monitoring of Wild Salmon Status 
 
-DFO’s WSP recognizes the importance of salmon biodiversity (DFO 2005). Greater biodiversity reduces the risk of extinction by increasing the likelihood that some populations will be able 
+DFO’s <a href=">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> recognizes the importance of monitoring and conserving salmon biodiversity. Greater biodiversity reduces the risk of extinction by increasing the likelihood that some populations will be able 
 to withstand changing circumstances. Salmon biodiversity can also buffer overall abundances from periods of environmental change, since some salmon traits are better adapted to different conditions than others. 
 This is called the portfolio effect; greater diversity means that more stable overall abundances can be maintained to support harvest and ecosystem function ([Schindler et al. 2010](./References.md)). 
 
@@ -38,6 +38,8 @@ metrics that fall within four classes of status indicators: abundance, trends in
 To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Toolkit.md) depending on the availability of data and other information for the CU. Metric values are calculated 
 and are compared to metric-specific benchmarks that delineate the Red to Amber (lower benchmark) and the Amber to Green (upper benchmark) status zones to determine metric statuses (Red, Amber, or Green).
 
+![WSP Status Zones](./assets/images/WSP status zones.png)
+*Figure 3 in the <a href=">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> (pg. 17) illustrates how benchmarks delineate biological status for each CU*
 <br>
 
 ## Action Step 1.3: Monitor and Assess CU status
