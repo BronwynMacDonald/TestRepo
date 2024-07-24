@@ -12,9 +12,10 @@ DFO’s WSP Strategy 1 outlines a broad approach to tracking salmon biodiversity
 Within Strategy 1, the WSP prescribes three actions steps: 
 
 * [Action Step 1.1.: Identify Conservation Units (CUs)](#action-step-11-identify-conservation-units-cus)
-* Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
-* Action Step 1.3: Monitor and Assess CU status
+* [Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status](#action-step-12-develop-criteria-to-assess-cus-and-identify-benchmarks-to-represent-biological-status)
+* [Action Step 1.3: Monitor and Assess CU Status](#action-step-13-monitor-and-assess-cu-status)
 
+<br>
 
 ## Action Step 1.1.: Identify Conservation Units (CUs)
 
@@ -27,6 +28,7 @@ There are 377 current CUs defined across the five species of salmon managed by D
  modified and approved by CU experts and methodological processes that align with <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Holtby and Ciruna (2007)</a>. 
 Revisions to the original CU list have been completed for Fraser sockeye and Southern BC Chinook ([Grant et al. 2011, Brown et al. 2019](./References.md)). 
 
+<br>
 
 ## Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
 
@@ -36,13 +38,14 @@ metrics that fall within four classes of status indicators: abundance, trends in
 To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Toolkit.md) depending on the availability of data and other information for the CU. Metric values are calculated 
 and are compared to metric-specific benchmarks that delineate the Red to Amber (lower benchmark) and the Amber to Green (upper benchmark) status zones to determine metric statuses (Red, Amber, or Green).
 
-[More information on WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md).
+<br>
 
 ## Action Step 1.3: Monitor and Assess CU status
 
-Application of the metric toolkit does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the short-term trend metric (percent 
-change over the most recent three generations) can indicate a Red status while the long-term trend metric (comparing the average escapement of the most recent generation to the long-term average) might 
-indicate a Green status. The next step, after metrics are calculated, is an integration process that combines statuses across metrics into a single status for each CU. 
+Application of the metric toolkit does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
+[percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) 
+metric (comparing the average escapement of the most recent generation to the long-term average) might 
+indicate a Green status. The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
 
 [More information on integrating metrics into WSP statuses](./Integrated Status Assessments.md)
 
