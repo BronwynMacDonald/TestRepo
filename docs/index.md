@@ -1,26 +1,31 @@
-# **DFO's State of the Salmon Program**
+# **What do we do?**
 
 The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting 
 and the development of analytical tools.
 Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as 
-deteriorating habitats, increased fish disease, and invasive species (Grant et al. 2019). Given these trends, regular tracking of 
+deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md). Given these trends, regular tracking of 
 the state and distribution of salmon biodiversity is increasingly important.
 
 
 ## **Status Assessments for Wild Pacific Salmon**
 
 DFO’s Wild Salmon Policy (WSP) Strategy 1 outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon statuses. 
-DFO has developed a status assessment tool kit that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009] (./References.md)), 
-and has applied this toolkit to four groups of Pacific salmon Conservation Units (CUs) through WSP Integrated Status Assessments (Grant & Pestal 2012, DFO 2015, DFO 2016, Grant et al. 2020)
-Subsequently, DFO's State of the Salmon Program developed an approach to rapidly assess the biological status of Pacific Salmon Conservation Units (CUs) under the Wild Salmon Policy (WSP) (Pestal et al. 2023, DFO 2024).   
-The *State of the Salmon* program is coordinating and supporting local implementation of the rapid assessment approach across species and areas.
+DFO has developed a [status assessment toolkit](./WSP Toolkit.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
+This toolkit has been used to assess three groups of Pacific salmon Conservation Units (CUs) through WSP Integrated Status Assessments: 
+* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/349836.pdf">Fraser Sockeye (2012)</a>, <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40712163.pdf">Fraser Sockeye (2017)</a>
+* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40595419.pdf">Southern BC Chinook</a>
+* <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/364851.pdf">Interior Fraser Coho</a>.
+
+More recently, DFO's State of the Salmon Program developed an approach to <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41225260.pdf">rapidly assess biological status of Pacific Salmon Conservation Units (CUs) under the Wild Salmon Policy (WSP)</a>.   
+The *State of the Salmon* program is coordinating and supporting local implementation of rapid status assessments across species and areas.
 
 - [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
-- [Indicators, metrics, and benchmarks for Wild Salmon Policy Status](./WSP Indicators and Benchmarks.md)
-- [Integrated status assessments](./Integrated Status Assessments.md)
-- [WSP Rapid Status Assessments](./WSP Rapid Status.md)
-- [The Pacific Salmon Status Scanner](./The Scanner.md)
+- [Toolkit for assessing Wild Salmon Policy statuses](./WSP Toolkit.md)
 
+WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md) once fully reviewed. The Scanner is an interactive data visualization tool specifically designed for experts to support their work on 
+Pacific salmon. 
+
+- [The Pacific Salmon Status Scanner](./The Scanner.md)
 
 Providing a clear, consistent picture of Pacific salmon status will support decision-making processes. Specifically, annual tracking of Pacific salmon CU statuses will improve our ability to: 
 1) assess the impacts of climate change and other stressors on salmon; 
