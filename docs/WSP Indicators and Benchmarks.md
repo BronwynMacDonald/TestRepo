@@ -1,15 +1,16 @@
-# WSP Indicators, Metrics, and Benchmarks
+# WSP Toolkit: Indicators, Metrics, and Benchmarks
 
-![WSP Status Indicators](./assets/images/Indicators metrics benchmarks.png)
-
-*Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
-benchmarks on each metric, that was developed in [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
-
-As shown, WSP metrics fall within four classes of indicators for assessing status: 
+WSP metrics fall within four classes of indicators for assessing status: 
 * Abundance
 * Trends in abundance
 * Fishing mortality
 * Distribution. 
+
+![WSP Status Indicators](./assets/images/Indicators metrics benchmarks.png)
+
+*Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
+benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
+
 
 For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. The lower benchmark is set at a level that provides 
 a substantial buffer between the benchmark and the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) classification of ‘endangered’. 
@@ -46,14 +47,18 @@ They have not yet been used in WSP integrated status assessment processes.
 
 
 ### Absolute abundance
-The absolute abundance metric compares the average spawner abundance of the most recent generation (geometric mean) to COSEWIC criteria used to define ‘Threatened Species'(COSEWIC 2020). The lower benchmark is set 
-at 1,000, to align with criterion D1 and the upper benchmark is set at 10,000, which is used in combination with other abundance metrics under criterion C (COSEWIC 2020). These benchmarks are grounded in fundamental 
-principles of population and conservation ecology. The value 1,000 is a critical threshold identified in conservation biology (National Research Council (US) Committee on Scientific Issues in the Endangered Species 
-Act 1998; McElhany et al. 2000). Below 1,000, a population is more at risk from demographic stochasticity, such as randomly in a given year producing mostly males or females. They also are at greater risk from 
-environmental change and catastrophic events, accumulating deleterious genetic mutations, and have a low evolutionary potential to adapt to environmental change. The value 10,000 is an upper limit on population 
-size conservation risk from environmental variation and catastrophic events; sizes above 10,000 individuals protect populations from moderate to high environmental variation as one example (National Research Council 
-(US) Committee on Scientific Issues in the Endangered Species Act 1998; McElhany et al. 2000). Wildlife species assessed by COSEWIC and th IUCN may be perpetually classified in Threatened or Endangered categories due 
-to small population sizes. Conservation science shows that higher extinction risk exists for such small populations regardless of whether they have remained stable at low abundances for several generations. 
+The absolute abundance metric compares the average spawner abundance of the most recent generation (geometric mean) to COSEWIC criteria used to define ‘Threatened Species'([COSEWIC 2020](./References.md)). 
+
+The lower benchmark is set at 1,000, to align with COSEWIC criterion D1 and the upper benchmark is set at 10,000, which is used in combination with other abundance metrics under criterion C ([COSEWIC 2020](./References.md)). 
+
+The absolute abundance metric benchmarks are grounded in fundamental principles of population and conservation ecology. The value 1,000 is a critical threshold identified in conservation biology 
+([National Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998, McElhany et al. 2000](./References.md)). Below 1,000, a population is more at risk from demographic stochasticity, such as randomly in a given year producing mostly males or females. They also are at greater risk from 
+environmental change and catastrophic events, accumulating deleterious genetic mutations, and have a low evolutionary potential to adapt to environmental change. 
+
+The value 10,000 is an upper limit on population size conservation risk from environmental variation and catastrophic events; sizes above 10,000 individuals protect populations from moderate to high environmental 
+variation as one example ([National Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998, McElhany et al. 2000](./References.md)). Wildlife species assessed by COSEWIC and the IUCN 
+may be perpetually classified in Threatened or Endangered categories due to small population sizes. Conservation science shows that higher extinction risk exists for such small populations regardless of whether they 
+have remained stable at low abundances for several generations. 
 
 ## Trends in Abundance Metrics
 

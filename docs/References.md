@@ -25,15 +25,26 @@ Grant and Pestal 2012
 Grant, MacDonald,and Winston. 2019. *State of the Canadian Pacific salmon: Responses to changing climate and  habitats*. Can. Tech. Rep. Fish. Aquat. Sci. 3332. ix + 50 p.
 - [Report]((https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf)
 
+Grant et al 2020
+
 Holt 2009
 
 
 Holt, C.A., Cass, A., Holtby, B., and Riddell, B. 2009. [Indicators of Status and Benchmarks for Conservation Units in Canada's Wild Salmon Policy](https://www.dfo-mpo.gc.ca/csas-sccs/publications/resdocs-docrech/2009/2009_058-eng.htm). Can. Sci. Advis. Sec. Res. Doc. 2009/058
 
+Holt 2010
+
+Holt et al 2018
+
 MacDonald, B. and Grant, S.C.H. 2023. [State of Canadian Pacific salmon: considerations for Pacific salmon management in a changing climate](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41213531.pdf). Department of Fisheries and Oceans Canada
 Report 23-2305. 27 p.
 
 Mace et al. 2008; 
+
+McElhany et al. 2000
+
+National Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998; 
+Parken et al. 2006
 
 Schindler at al. 2010
 

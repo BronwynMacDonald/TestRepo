@@ -40,6 +40,7 @@ and are compared to metric-specific benchmarks that delineate the Red to Amber (
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
 *Figure 3 in the <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> (pg. 17) illustrates how benchmarks delineate biological status for each CU*
+
 <br>
 
 ## Action Step 1.3: Monitor and Assess CU status

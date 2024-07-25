@@ -1,5 +1,11 @@
 # WSP Rapid Status Assessments
-<br>
+
+The WSP rapid status assessment process relies on an algorithm (i.e., a decision tree implemented 
+as computer code), based on the four sets of previously completed integrated status assessments. The algorithm was developed using Classification and Regression Tree (CART) analyses, in combination with common rationale 
+or rules extracted from the CU-specific status narratives developed during the WSP integrated status assessments. The resulting algorithm approximates the expert decision-making process used in the integrated status 
+assessments. The WSP rapid status assessment approach still requires expert input to prepare data, determine how metrics are calculated, and review resulting statuses, but it automates metric calculation and the 
+labour-intensive process of integrating metrics into statuses. We refer to algorithm-derived statuses as WSP Rapid Statuses to differentiate these from WSP Integrated Statuses determined through expert-driven processes.
+
 
 The WSP Rapid Status approach approximates the expert decision-making processes used in more formal Integrated WSP Status assessments through use of an algorithm (computer-coded decision tree). This algorithm is a set of 
 consecutive decision rules that are applied to the WSP metric values available for the CU being assessed. WSP rapid statuses are determined by the specific combination of metrics applied to the CU data, and 
@@ -19,16 +25,16 @@ has absolute abundance metric values and the recent generational average falls u
 
 ## Three Core Principles of the WSP Rapid Status Approach
 
-1) The first core principle is that WSP CUs were identified and rapid statuses were developed based on conservation biology principles (Mace and Lande 1991; Mace et al. 1992, 2008; Caughley 1994; National 
+1. The first core principle is that WSP CUs were identified and rapid statuses were developed based on conservation biology principles (Mace and Lande 1991; Mace et al. 1992, 2008; Caughley 1994; National 
 Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998; McElhany et al. 2000; Rodrigues et al. 2006), and are aligned with scientific 
 peer-reviewed publications (Holtby and Ciruna 2007; Holt 2009; Holt et al. 2009; Holt 2010; Grant et al. 2011; Grant and Pestal 2012; DFO 2015, 2016; Brown et al. 2019; 
 Grant et al. 2020). This ensures that Pacific salmon statuses are scientifically objective, consistent, and comparable across CUs. 
 
-2) The second core principle of WSP rapid status assessment is the vetting of data and evaluation of WSP rapid statuses by CU experts. DFO stock assessment leads work in collaboration with Indigenous 
+2. The second core principle of WSP rapid status assessment is the vetting of data and evaluation of WSP rapid statuses by CU experts. DFO stock assessment leads work in collaboration with Indigenous 
 groups, consultants, and others that support or lead salmon stock assessment programs to fine tune the CU data used (determining appropriate escapement sites, years, data treatment, etc.), select 
 applicable [WSP metrics](./WSP Indicators and Benchmarks.md), and determine specifications for metric calculations.
 
-3) The final core principle of the WSP rapid status algorithm is continual learning and refinement. This means that data sets and status metrics for each CU will be regularly reviewed and updated, and 
+3. The final core principle of the WSP rapid status algorithm is continual learning and refinement. This means that data sets and status metrics for each CU will be regularly reviewed and updated, and 
 that the rapid status algorithm will be reviewed through on-going work with CU experts. Such experts can identify where decision rules may require revisions if they are not making sense, or where 
 additional decision rules may be needed as new CUs are assessed. In any such case, algorithm performance will be tested for overall improvements.
 
