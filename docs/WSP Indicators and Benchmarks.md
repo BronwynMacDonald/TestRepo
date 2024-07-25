@@ -1,10 +1,6 @@
 # WSP Toolkit: Indicators, Metrics, and Benchmarks
 
-WSP metrics fall within four classes of indicators for assessing status: 
-* Abundance
-* Trends in abundance
-* Fishing mortality
-* Distribution. 
+WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. 
 
 ![WSP Status Indicators](./assets/images/Indicators metrics benchmarks.png)
 
