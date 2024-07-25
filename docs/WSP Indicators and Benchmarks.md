@@ -4,7 +4,7 @@
 WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. 
 
 
-![WSP Status Indicators](./assets/images/Indicators metrics benchmarks.png)
+<img src="./assets/images/Indicators metrics benchmarks.png" width="400" />
 
 *Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
 benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
