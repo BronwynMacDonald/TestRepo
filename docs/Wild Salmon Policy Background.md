@@ -45,10 +45,10 @@ and are compared to metric-specific benchmarks that delineate the Red to Amber (
 
 ## Action Step 1.3: Monitor and Assess CU status
 
-Application of the metric toolkit does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
-[percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) 
-metric (comparing the average escapement of the most recent generation to the long-term average) might 
-indicate a Green status. The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
+The WSP outlines plans for monitoring and assessing CU abundances and spawner distributions on an annual basis. It also specifies that biological statuses are assessed annually by comparing assesment results to the benchmarks. 
+
+In practice, application of the metric toolkit does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
+[percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
 
 [More information on integrating metrics into WSP statuses](./Integrated Status Assessments.md)
 
