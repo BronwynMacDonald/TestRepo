@@ -1,3 +1,4 @@
+
 ## Canada's Wild Salmon Policy Strategy 1: Standardized Monitoring of Wild Salmon Status 
 
 DFO’s <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> recognizes the importance of monitoring and conserving salmon biodiversity. Greater biodiversity reduces the risk of extinction by increasing the likelihood that some populations will be able 
