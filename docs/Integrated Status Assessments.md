@@ -1,6 +1,7 @@
 ## Status Integration Methods
 
 There are three potential ways to integrate metric statuses into an official WSP status for a CU. The first two describe expert-driven workshop-based processes, while the third relies on lessons learned from previous assessments, implemented through an algorithm. Note that the algorithm approach is also expert driven, and requires expert input during the data preparation and status verification stages, but the process of integrating statuses is automated. 
+
 <br>
 ### Workshop-based Integration Processes
 
@@ -18,6 +19,7 @@ and therefore, multi-day time commitments from 20-40 participants.
 Overall, these processes take years to complete, and have only been applied to three groups of Pacific salmon CUs as a result (one group was assessed a second time five years after the first assessment).  
 
 Due to these constraints, each of the four completed expert-driven WSP status assessments flagged the need to develop rapid status assessment methods (DFO 2012; Grant & Pestal 2012; DFO 2015; DFO 2016, Grant et al. 2020). 
+
 <br>
 ### Algorithm-based Processes
 
