@@ -1,4 +1,4 @@
-# WSP Rapid Status Assessments
+## WSP Rapid Status Assessments
 
 The WSP rapid status assessment approach uses an algorithm (i.e., a decision tree implemented as computer code) developed from the four sets of previously completed integrated status assessments. 
 
@@ -20,7 +20,7 @@ has absolute abundance metric values and the recent generational average falls u
 
 <br>
 
-## Three Core Principles of the WSP Rapid Status Approach
+### Three Core Principles of the WSP Rapid Status Approach
 
 1. Methods to identify Conservation Units and assess rapid statuses comply with conservation biology principles ([Mace and Lande 1991; Mace et al. 1992, 2008; Caughley 1994; National 
 Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998; McElhany et al. 2000; Rodrigues et al. 2006](./References.md)), and are aligned with scientific 
@@ -33,7 +33,7 @@ Grant et al. 2020](./References.md)). This ensures that Pacific salmon statuses 
 
 <br>
 
-## Benefits
+### Benefits
 The WSP rapid status approach has the ability to provide more complete coverage of WSP statuses across CUs, and can be more frequently updated. Expanding the number of assessed CUs will require input from 
 stock assessment experts to prepare input data and review/verify the results. However, overall the time commitment required to assess WSP statuses has been greatly reduced through implementation 
 of this algorithm and the data processes that surround it.
