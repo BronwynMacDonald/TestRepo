@@ -67,12 +67,11 @@ change, respectively.
 
 
 ## Ancillary Information used in past WSP integrated status assessment processes
-Additional information has been presented in WSP integrated status assessments to support assessment processes. Such information includes: time series plots of spawners, recruitment, productivity, 
-marine and/or freshwater survival, spawning abundances of individual populations within a CU, exploitation rates, and hatchery information wherever relevant and available. Additional context on the metrics has also 
-been presented, including retrospective metric calculations, uncertainty in the metrics, and uncertainty in the relative abundance benchmark estimates (Sgen and Smsy). 
+Additional information has been presented in [WSP integrated status assessments](./Integrated Status Assessments) to support assessment processes. Such information includes: time series plots of spawners, recruitment, productivity, marine and/or freshwater survival, spawning abundances of individual populations within a CU, exploitation rates, and hatchery information wherever relevant and available. Additional context on the metrics has also been presented, including retrospective metric calculations, uncertainty in the metrics, and uncertainty in the relative abundance benchmark estimates (Sgen and Smsy). 
 
 While there is a considerable amount of other ancillary information such as information on salmon disease, parasite prevalence, genetic diversity, etc. that could be included to assess 
 salmon status, we do not recommend using these sources of information for the WSP status approach. Instead we recommend continuing to emphasize standardized metrics and additional 
-information that focuses on abundance and trends in abundance. Where this type of ancillary information is particularly important, however, is in helping understand threats to salmon CUs, and supporting 
-rebuilding considerations.
+information that focuses on abundance and trends in abundance. 
+
+Where this type of ancillary information is particularly important, however, is in helping understand threats to salmon CUs, and supporting rebuilding considerations.
 
