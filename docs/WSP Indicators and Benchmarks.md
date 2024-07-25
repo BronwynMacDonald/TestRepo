@@ -13,7 +13,8 @@ benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt e
 For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. The lower benchmark is set at a level that provides 
 a substantial buffer between the benchmark and the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) classification of ‘endangered’. 
 
-![WSP Status Zones](./assets/images/WSP status zones.png)
+<img src="./assets/images/WSP status zones.png" width="500" />
+
 *Figure 3 in the <a href=">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> (pg. 17) illustrates how benchmarks delineate biological status zones*
 
 <br>
