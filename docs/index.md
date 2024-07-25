@@ -16,8 +16,9 @@ Specifically, annual tracking of Pacific salmon CU statuses will improve the abi
 
 ## **Status Assessments for Wild Pacific Salmon**
 
-DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon statuses. 
-To support this, DFO has developed a [status assessment toolkit](./WSP Indicators and Benchmarks.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
+DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad framework for tracking salmon biodiversity through standardized monitoring of wild salmon statuses. Over the past 15 years since the Policy was published, a [WSP status assessment approach](./WSP Toolkit.md) has evolved through research, application, and refinement of methods.
+
+To support status assessments, DFO developed a [status assessment toolkit](./WSP Indicators and Benchmarks.md) that is customized to the complex life histories and population structures of Pacific salmon ([Holt et al. 2009](./References.md), [Holt 2009](./References.md)). 
 
 - [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
 - [Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)
