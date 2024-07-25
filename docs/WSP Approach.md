@@ -1,4 +1,4 @@
-# Wild Salmon Policy Status Assessment Approach
+## Wild Salmon Policy Status Assessment Approach
 
 Wild Salmon Policy status assessments for Pacific salmon CUs follow a multi-criteria approach that was developed over 15 years of research, application, and refinement. 
 
