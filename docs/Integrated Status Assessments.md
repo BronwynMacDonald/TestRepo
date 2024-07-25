@@ -22,6 +22,8 @@ Due to these constraints, each of the four completed expert-driven WSP status as
 ## Algorithm-based Processes
 
 ### 3) Rapid status assessments
-The third approach to determining integrated statuses delivers on the escalating need for streamlined, rapid status assessments, and is described in detail [here](./WSP Rapid Status.md). 
+The third approach to determining integrated statuses delivers on the escalating need for streamlined, rapid status assessments. The WSP Rapid Status approach approximates the expert decision-making processes used in more formal Integrated WSP Status assessments through use of an algorithm (computer-coded decision tree). 
+
+We refer to algorithm-derived statuses as WSP Rapid Statuses to differentiate these from WSP Integrated Statuses determined through expert-driven workshops. 
 
 - [More information on WSP Rapid Statuses](./WSP Rapid Status.md) 
