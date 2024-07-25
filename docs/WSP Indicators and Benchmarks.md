@@ -1,18 +1,21 @@
 ## WSP Toolkit: Indicators, Metrics, and Benchmarks
 
+
 WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. 
+
 
 ![WSP Status Indicators](./assets/images/Indicators metrics benchmarks.png)
 
 *Figure 4 in <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339096.pdf">Holt et al. (2009), pg. 9</a> illustrates the hierarchy of indicators, quantifiable metrics within each indicator class, and 
 benchmarks on each metric, developed by [Holt 2009](./References.md) and [Holt et al. 2009](./References.md) to assess biological statuses of Conservation Units.*
 
-
+<br>
 For each metric, lower and upper benchmarks delineate, respectively, the Red to Amber and the Amber to Green WSP biological status zones. The lower benchmark is set at a level that provides 
 a substantial buffer between the benchmark and the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) classification of ‘endangered’. 
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
 *Figure 3 in the <a href=">https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/315577.pdf">Wild Salmon Policy</a> (pg. 17) illustrates how benchmarks delineate biological status zones*
+
 <br>
 
 Abundance and trends in abundance metrics have been most commonly applied in the WSP status assessments to date. Fishing mortality metrics have not been used because this indicator reflects a threat to a CU rather than an intrinsic property of the CU, and is typically used only 
@@ -21,6 +24,8 @@ developed to assess distribution metrics, and the information provided in past p
 
 The WSP status approach currently relies on two abundance metrics and two trend in abundance metrics that were applied in all four previous assessments. These criteria reflect two paradigms to assess conservation 
 risk emphasized in conservation biology: small population size and declining population ([Caughley 1994; Mace et al. 2008](./References.md)). 
+
+<br>
 
 ### Abundance Metrics
 
@@ -55,6 +60,8 @@ variation as one example ([National Research Council (US) Committee on Scientifi
 
 Wildlife species assessed by COSEWIC and the IUCN may be perpetually classified in Threatened or Endangered categories due to small population sizes. Conservation science shows that higher extinction risk exists for such small populations regardless of whether they have remained stable at low abundances for several generations. 
 
+<br>
+
 ### Trends in Abundance Metrics
 
 #### Long-term trend
@@ -65,6 +72,7 @@ respectively.
 The percent change (short-term trend in abundance) metric estimates the linear change in total spawner abundance over the most recent three generations. Lower and upper benchmarks are set at -15% change and -25%
 change, respectively. 
 
+<br>
 
 ### Ancillary Information used in past WSP integrated status assessment processes
 Additional information has been presented in [WSP integrated status assessments](./Integrated Status Assessments) to support assessment processes. Such information includes: time series plots of spawners, recruitment, productivity, marine and/or freshwater survival, spawning abundances of individual populations within a CU, exploitation rates, and hatchery information wherever relevant and available. Additional context on the metrics has also been presented, including retrospective metric calculations, uncertainty in the metrics, and uncertainty in the relative abundance benchmark estimates (Sgen and Smsy). 
