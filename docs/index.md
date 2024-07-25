@@ -1,11 +1,8 @@
 # **What do we do?**
 
-The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting 
-and the development of analytical tools.
+The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
 
-Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as 
-deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md)). Given these trends, regular tracking of 
-the state and distribution of salmon biodiversity is increasingly important to support decision-making processes. 
+Broad declines in Canadian Pacific salmon abundances have been linked to global climate change and other factors, such as deteriorating habitats, increased fish disease, and invasive species ([Grant et al. 2019](./References.md)). Given these trends, regular tracking of the state and distribution of salmon biodiversity is increasingly important to support decision-making processes. 
 
 Specifically, annual tracking of Pacific salmon CU statuses will improve the ability to: 
 1. assess the impacts of climate change and other stressors on salmon; 
@@ -42,8 +39,7 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 
 ## **Climate Change Adaptation**
 
-<a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are declining in abundance throughout their BC and Yukon range, and many sockeye and coho 
-populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines, as were chum salmon until more recently. 
+<a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are declining in abundance throughout their BC and Yukon range, and many sockeye and coho populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines, as were chum salmon until more recently. 
 
 * <a href = "https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html">State of Canadian Pacific Salmon 2019 E-Book</a>
 
@@ -51,9 +47,7 @@ We do not anticipate that long-term salmon survival patterns will reflect those 
 future in B.C. and the Yukon. 
 
 Climate change vulnerability assessments for Pacific salmon on the west coast of the U.S. indicate that vulnerability to climate change varies across Pacific salmon species and 
-populations, determined by the habitats they occupy and their life histories ([Crozier et al. 2019](./References.md)). Climate change vulnerability is largely higher for southern and interior populations, and is influenced by the amount 
-of time salmon spend in fresh water and estuaries ([Crozier et al. 2019](./References.md)). These patterns corroborate some of the <a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">general trends</a> that 
-have been observed across Pacific salmon populations in Canada.
+populations, determined by the habitats they occupy and their life histories ([Crozier et al. 2019](./References.md)). Climate change vulnerability is largely higher for southern and interior populations, and is influenced by the amount of time salmon spend in fresh water and estuaries ([Crozier et al. 2019](./References.md)). These patterns corroborate some of the <a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">general trends</a> that have been observed across Pacific salmon populations in Canada.
 
 As environmental conditions continue to change, climate change vulnerability assessments will be a valuable tool for providing a longer-range outlook for Canadian Pacific salmon. Such assessments will provide a more 
 detailed understanding of the distribution of climate vulnerabilities across Pacific salmon populations in Canada to better inform current and future management decisions, and support efforts to 
