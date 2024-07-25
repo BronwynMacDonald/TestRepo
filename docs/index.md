@@ -1,6 +1,9 @@
 <br>
 
-<h1> What do we do?</h1>
+<h1> Welcome to the State of the Salmon Program!</h1>
+
+
+<h2> What do we do?</h2>
 
 The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
 
@@ -13,7 +16,7 @@ Specifically, annual tracking of Pacific salmon CU statuses will improve the abi
 
 <br>
 
-<h2> Status Assessments for Wild Pacific Salmon </h2>
+<h3> Status Assessments for Wild Pacific Salmon </h3>
 
 DFO’s [Wild Salmon Policy (WSP) Strategy 1](./Wild Salmon Policy Background.md) outlines a broad framework for tracking salmon biodiversity through standardized monitoring of wild salmon statuses. Over the past 15 years since the Policy was published, a [WSP status assessment approach](./WSP Approach.md) has evolved through research, application, and refinement of methods.
 
@@ -39,7 +42,7 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 
 <br>
 
-<h2> Climate Change Adaptation </h2>
+<h3> Climate Change Adaptation </h3>
 
 <a href= "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40807071.pdf">Patterns in Canadian Pacific salmon abundances</a> are emerging, concurrent with climate and habitat changes. Chinook are declining in abundance throughout their BC and Yukon range, and many sockeye and coho populations are declining, most notably at southern latitudes. Pink salmon are generally not exhibiting long-term declines, as were chum salmon until more recently. 
 
