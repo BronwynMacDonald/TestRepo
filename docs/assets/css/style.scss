@@ -4,14 +4,21 @@
 
 .wrapper {
   width:1250px;
-  // left side is 270
-  // 1200-270 = 930
+  // left side is 270; padding is 50
+  // 1250-270-50 = 930
   // 30px free room
   margin:0 auto;
 }
 
+header {
+  width:300px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 section {
-  width:900px;
+  width:870px;
   float:right;
   padding-bottom:50px;
   padding-left:50px;
@@ -21,4 +28,12 @@ h1, h2, h3, h4, h5, h6 {
   color:#2B5C92;
   margin:0 0 20px;
   font-weight: normal;
+}
+
+h1 {
+  font-size:32px;
+}
+
+h1 {
+  font-size:25px;
 }
