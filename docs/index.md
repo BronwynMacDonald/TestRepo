@@ -3,7 +3,7 @@
 
 <br>
 
-<h2> What do we do?</h2>
+<h3> What do we do?</h2>
 
 The State of the Salmon Program was created to track and understand trends in Canadian Pacific salmon populations through collaborative processes, improved reporting and the development of analytical tools.
 
