@@ -12,7 +12,7 @@ The WSP rapid status assessment approach requires expert input to prepare data, 
 
 
 #![WSP Rapid Status Algorithm](./assets/images/Rapid status algorithm infographic (full algorithm).png)
-<img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="200" />
+<img src="./assets/images/Rapid status algorithm infographic (full algorithm).png" width="800" />
 *WSP rapid status Learning Tree 3 algorithm. To assess a CU, metric values are compared to thresholds presented at each decision point. Yes or No answers split each path of the decision tree, terminating at WSP rapid status assignments. The different splits are identified as nodes: 1 to 65. Pathway 1 is taken when the CU has no absolute abundance metric values, or these values exist, but the recent generational average is above the upper threshold of 10,000. Pathway 2 is taken when the CU 
 has absolute abundance metric values and the recent generational average falls under the upper benchmark of 10,000. AbsAbd: absolute abundance; AbsLBM: absolute abundance lower threshold (1,000 benchmark plus 500 buffer); AbsUBM: absolute abundance upper threshold; Rel LBM: relative abundance lower threshold; Rel UBM: relative abundance upper threshold, which is the upper benchmark for this metric + 10%; LongTrend: is long term trend metric; %Change: percent change metric. High, Medium, or Low confidence ratings are identified for each node.*
 
