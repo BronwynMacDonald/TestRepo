@@ -39,19 +39,25 @@ Holt et al 2018
 MacDonald, B. and Grant, S.C.H. 2023. [State of Canadian Pacific salmon: considerations for Pacific salmon management in a changing climate](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41213531.pdf). Department of Fisheries and Oceans Canada
 Report 23-2305. 27 p.
 
+Mace and Lande 1991; 
+
+Mace et al. 1992
+
 Mace et al. 2008; 
 
 McElhany et al. 2000
 
 National Research Council (US) Committee on Scientific Issues in the Endangered Species Act 1998; 
+
 Parken et al. 2006
 
+Rodrigues et al. 2006
+ 
 Schindler at al. 2010
 
 Wade et al. 2019
 
 IUCN 2022
-
 
 [E-book summary](https://www.dfo-mpo.gc.ca/species-especes/publications/salmon-saumon/state-etat-2019/ebook/index-eng.html)
 
