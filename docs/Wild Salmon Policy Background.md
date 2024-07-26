@@ -20,7 +20,7 @@ Within Strategy 1, the WSP prescribes three actions steps:
 
 <br>
 
-### Action Step 1.1.: Identify Conservation Units (CUs)
+#### Action Step 1.1.: Identify Conservation Units (CUs)
 
 The Conservation Unit (CU) has been identified as the fundamental unit of biodiversity in the WSP. A CU is defined as a group of wild salmon sufficiently isolated from other groups that, if lost, 
 are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) ([DFO 2005](./References)). 
@@ -33,7 +33,7 @@ Revisions to the original CU list have been completed for Fraser sockeye and Sou
 
 <br>
 
-### Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
+#### Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
 
 DFO’s WSP provides a framework for status assessments in Strategy 1, Action Step 1.2. This includes a description of three status zones ranging from Red (poor status), to Amber (intermediate status), 
 and Green (good status), and general methods for assessing statuses at the CU level. A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was subsequently developed, consisting of a set of quantifiable 
@@ -46,7 +46,7 @@ and are compared to metric-specific benchmarks that delineate the Red to Amber (
 
 <br>
 
-### Action Step 1.3: Monitor and Assess CU status
+#### Action Step 1.3: Monitor and Assess CU status
 
 The WSP outlines plans for monitoring and assessing CU abundances and spawner distributions on an annual basis. It also specifies that biological statuses are assessed annually by comparing assesment results to the benchmarks. 
 
