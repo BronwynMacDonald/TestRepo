@@ -30,15 +30,14 @@ More recently, DFO's State of the Salmon Program developed a streamlined approac
 <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41225260.pdf">Wild Salmon Policy (WSP) rapid status assessments</a>. The State of the Salmon program is coordinating and supporting 
 local implementation of rapid status assessments across species and areas.
 
-- [Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
-- [WSP Status Assessment Approach](./WSP Approach.md)
-- [Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)
-- [WSP Integrated Status Assessments](./Integrated Status Assessments.md)
-- [WSP Rapid Status Assessments](./WSP Rapid Status.md)
-
 Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific Salmon Status Scanner](./The Scanner.md). The Scanner is an interactive data visualization tool specifically designed for experts to support their work on Pacific salmon. 
 
-- [The Pacific Salmon Status Scanner](./The Scanner.md)
+[Background on the Wild Salmon Policy Strategy 1](./Wild Salmon Policy Background.md).
+[WSP Status Assessment Approach](./WSP Approach.md)
+[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)
+[WSP Integrated Status Assessments](./Integrated Status Assessments.md)
+[WSP Rapid Status Assessments](./WSP Rapid Status.md)
+[The Pacific Salmon Status Scanner](./The Scanner.md)
 
 <br>
 
