@@ -1,4 +1,7 @@
+
+
 ## Wild Salmon Policy Status Assessment Approach
+
 
 Wild Salmon Policy status assessments for Pacific salmon CUs follow a multi-criteria approach that was developed over 15 years of research, application, and refinement. 
 
@@ -13,9 +16,9 @@ Interior Fraser Coho ([DFO 2015](./References.md)), and Southern BC Chinook ([DF
 In each of the completed WSP status assessment processes, specific metrics were selected from the toolkit depending on data availability, quantity, and quality. After metrics are 
 calculated, an [integration process](./Integrated Status Assessments.md) is required to combine results across metrics into a single status for each CU.
 
-- [WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
-- [Integrated status assessments](./Integrated Status Assessments.md)
-- [WSP Rapid Status Assessments](./WSP Rapid Status.md)
+[WSP indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)   
+[Integrated status assessments](./Integrated Status Assessments.md)   
+[WSP Rapid Status Assessments](./WSP Rapid Status.md)  
 
 Papers detailing the development and early application of the WSP status assessment toolkit:
 
