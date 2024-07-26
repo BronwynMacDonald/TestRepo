@@ -23,7 +23,7 @@ Within Strategy 1, the WSP prescribes three actions steps:
 ### Action Step 1.1.: Identify Conservation Units (CUs)
 
 The Conservation Unit (CU) has been identified as the fundamental unit of biodiversity in the WSP. A CU is defined as a group of wild salmon sufficiently isolated from other groups that, if lost, 
-are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) (DFO 2005). 
+are very unlikely to recolonize naturally within an acceptable timeframe (e.g. a human lifetime or a specified number of salmon generations) ([DFO 2005](./References)). 
 <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/334860.pdf">Pacific salmon Conservation Units</a> are delineated by their salmon ecology, life-history, and genetics.
 
 There are 377 current CUs defined across the five species of salmon managed by DFO in the Pacific Region ([Wade et al. 2019](./References.md)). Current is a specific CU designation. Current CUs are extant 
@@ -36,9 +36,9 @@ Revisions to the original CU list have been completed for Fraser sockeye and Sou
 ### Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status
 
 DFO’s WSP provides a framework for status assessments in Strategy 1, Action Step 1.2. This includes a description of three status zones ranging from Red (poor status), to Amber (intermediate status), 
-and Green (good status), and general methods for assessing statuses at the CU level. A [status assessment toolkit](./WSP Toolkit.md) was subsequently developed, consisting of a set of quantifiable 
+and Green (good status), and general methods for assessing statuses at the CU level. A [status assessment toolkit](./WSP Indicators and Benchmarks.md) was subsequently developed, consisting of a set of quantifiable 
 metrics that fall within four classes of status indicators: abundance, trends in abundance, fishing mortality, and distribution ([Holt 2009, Holt 2010, Holt et al. 2009](./References.md)). 
-To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Toolkit.md) depending on the availability of data and other information for the CU. Metric values are calculated 
+To assess the WSP status of a CU, metrics are selected from [the toolkit](./WSP Indicators and Benchmarks.md) depending on the availability of data and other information for the CU. Metric values are calculated 
 and are compared to metric-specific benchmarks that delineate the Red to Amber (lower benchmark) and the Amber to Green (upper benchmark) status zones to determine metric statuses (Red, Amber, or Green).
 
 ![WSP Status Zones](./assets/images/WSP status zones.png)
@@ -53,5 +53,6 @@ The WSP outlines plans for monitoring and assessing CU abundances and spawner di
 In practice, application of the metric toolkit does not result in completed status assessments since statuses can differ between the metrics calculated for an individual CU. For example, the 
 [percent change](./WSP Indicators and Benchmarks.md###percent-change) metric (percent change over the most recent three generations) can indicate a Red status while the [long-term trend](./WSP Indicators and Benchmarks.md###longterm-trend) metric (comparing the average escapement of the most recent generation to the long-term average) might indicate a Green status. The next step, after metrics are calculated, is an [integration process](./Integrated Status Assessments.md) that combines statuses across metrics into a single status for each CU. 
 
-[More information on integrating metrics into WSP statuses](./Integrated Status Assessments.md)
+[WSP Status Assessment Toolkit: indicators, metrics, and benchmarks](./WSP Indicators and Benchmarks.md)
+[Integrating metrics into WSP statuses](./Integrated Status Assessments.md)
 
