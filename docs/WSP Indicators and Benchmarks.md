@@ -1,4 +1,7 @@
+
+
 ## WSP Toolkit: Indicators, Metrics, and Benchmarks
+
 
 <br>
 WSP metrics fall within four classes of indicators for assessing status: abundance, trends in abundance, fishing mortality, and distribution. 
@@ -30,7 +33,7 @@ risk emphasized in conservation biology: small population size and declining pop
 
 ### Abundance Metrics
 
-#### Relative abundance
+##### Relative abundance
 The relative abundance metric compares the average spawner abundance in the most recent generation (geometric mean) to CU-specific benchmarks that are estimated using one of the following three methods. 
 
 1. Stock-recruitment models ([Holt et al. 2009, Grant et al. 2011, Grant and Pestal 2012](./References.md))
@@ -48,7 +51,7 @@ Percentile benchmarks have been recommended for data limited CUs in cases where 
 They have not yet been used in WSP integrated status assessment processes.
 
 
-#### Absolute abundance
+##### Absolute abundance
 The absolute abundance metric compares the average spawner abundance of the most recent generation (geometric mean) to COSEWIC criteria used to define ‘Threatened Species'([COSEWIC 2020](./References.md)). 
 
 The lower benchmark is set at 1,000, to align with COSEWIC criterion D1 and the upper benchmark is set at 10,000, which is used in combination with other abundance metrics under criterion C ([COSEWIC 2020](./References.md)). 
@@ -65,17 +68,17 @@ Wildlife species assessed by COSEWIC and the IUCN may be perpetually classified 
 
 ### Trends in Abundance Metrics
 
-#### Long-term trend
+##### Long-term trend
 The long-term trend metric compares the current generational average (geometric mean) spawner abundance to the long-term average (geometric mean). Lower and upper benchmarks on this metric are set at 50% and 75% 
 respectively. 
 
-#### Percent change
+##### Percent change
 The percent change (short-term trend in abundance) metric estimates the linear change in total spawner abundance over the most recent three generations. Lower and upper benchmarks are set at -15% change and -25%
 change, respectively. 
 
 <br>
 
-### Ancillary Information used in past WSP integrated status assessment processes
+#### Ancillary Information used in past WSP integrated status assessment processes
 Additional information has been presented in [WSP integrated status assessments](./Integrated Status Assessments) to support assessment processes. Such information includes: time series plots of spawners, recruitment, productivity, marine and/or freshwater survival, spawning abundances of individual populations within a CU, exploitation rates, and hatchery information wherever relevant and available. Additional context on the metrics has also been presented, including retrospective metric calculations, uncertainty in the metrics, and uncertainty in the relative abundance benchmark estimates (Sgen and Smsy). 
 
 While there is a considerable amount of other ancillary information such as information on salmon disease, parasite prevalence, genetic diversity, etc. that could be included to assess 
