@@ -1,3 +1,4 @@
+<br>
 ## Status Integration Methods
 
 There are three potential ways to integrate metric statuses into an official WSP status for a CU. The first two describe expert-driven workshop-based processes, while the third relies on lessons learned from previous assessments, implemented through an algorithm. Note that the algorithm approach is also expert driven, and requires expert input during the data preparation and status verification stages, but the process of integrating statuses is automated. 
