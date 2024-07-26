@@ -20,7 +20,9 @@ calculated, an [integration process](./Integrated Status Assessments.md) is requ
 [Integrated status assessments](./Integrated Status Assessments.md)   
 [WSP Rapid Status Assessments](./WSP Rapid Status.md)  
 
-Papers detailing the development and early application of the WSP status assessment toolkit:
+<br>
+
+The following papers detail the development and early application of the WSP status assessment toolkit:
 
 <a href="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/339102.pdf">Holt, C. (2009). Evaluation of benchmarks for conservation units in 
 Canada's Wild Salmon Policy: technical documentation. DFO Can. Sci. Advis. Sec. Res. Doc. 2009/059. x + 50 p.</a>
