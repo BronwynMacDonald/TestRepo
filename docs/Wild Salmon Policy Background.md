@@ -14,9 +14,9 @@ spawning populations damaged by such events.
 DFO’s WSP Strategy 1 outlines a broad approach to tracking salmon biodiversity through standardized monitoring of wild salmon status. 
 Within Strategy 1, the WSP prescribes three actions steps: 
 
-[Action Step 1.1.: Identify Conservation Units (CUs)](#action-step-11-identify-conservation-units-cus)
-[Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status](#action-step-12-develop-criteria-to-assess-cus-and-identify-benchmarks-to-represent-biological-status)
-[Action Step 1.3: Monitor and Assess CU Status](#action-step-13-monitor-and-assess-cu-status)
+[Action Step 1.1.: Identify Conservation Units (CUs)](#action-step-11-identify-conservation-units-cus)   
+[Action Step 1.2: Develop Criteria to Assess CUs and Identify Benchmarks to Represent Biological Status](#action-step-12-develop-criteria-to-assess-cus-and-identify-benchmarks-to-represent-biological-status)   
+[Action Step 1.3: Monitor and Assess CU Status](#action-step-13-monitor-and-assess-cu-status)  
 
 <br>
 
