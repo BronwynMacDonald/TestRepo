@@ -4,3 +4,9 @@ description: Homepage for DFO's State of the Salmon Program
 show_downloads: true
 theme: jekyll-theme-minimal
 classes: wide
+
+navigation:
+  - name: Readme
+    link: ./index.html
+  - name: Another Page
+    link: ./linkedpage.html
