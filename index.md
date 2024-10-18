@@ -34,11 +34,12 @@ Once completed and reviewed, WSP Rapid Statuses are uploaded into [DFO's Pacific
 
 
 [Background on the Wild Salmon Policy Strategy 1](./docs/Wild Salmon Policy Background.md)   
-[WSP Status Assessment Approach](./WSP Approach.md)   
-[Toolkit for assessing Wild Salmon Policy statuses](./WSP Indicators and Benchmarks.md)   
-[WSP Integrated Status Assessments](./Integrated Status Assessments.md)   
-[WSP Rapid Status Assessments](./WSP Rapid Status.md)   
-[The Pacific Salmon Status Scanner](./The Scanner.md)  
+[WSP Status Assessment Approach](./docs/WSP Approach.md)   
+[Toolkit for assessing Wild Salmon Policy statuses](./dics/WSP Indicators and Benchmarks.md)   
+[WSP Integrated Status Assessments](./docs/Integrated Status Assessments.md)   
+[WSP Rapid Status Assessments](./docs/WSP Rapid Status.md)   
+[The Pacific Salmon Status Scanner](./docs/The Scanner.md)  
+[See videos](.docs/Scanner Videos.md)
 
 <br>
 
